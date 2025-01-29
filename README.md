@@ -15,14 +15,14 @@ This helps to determine what libraries your mods in your installation or modpack
 1. Download and install Python from [python.org](https://www.python.org/).
 2. Install the required Python modules:
    ```sh
-   pip install toml prettytable```
+   pip install toml prettytable
 
 ### Usage
 1. Open a terminal or command prompt.
 2. Navigate to the directory where list_dependencies.py is located.
 3. Run the script:
 	```sh
-	python run.py```
+	python run.py
 4. When prompted, enter the path to your mod folder.
 
 ### Output
