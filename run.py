@@ -52,7 +52,7 @@ def list_dependencies(mods_folder):
 
 # Ask for the mod folder path
 print("""Minecraft Mod Dependency Checker V1.0.0
-By Steven Wheeler (https://www.github.com/)
+By Steven Wheeler (https://github.com/stevenjwheeler/Minecraft-Mod-Dependency-Checker/)
 
 This tool reads the manifests in your mod folders .jar files and extracts information about the mandatory dependencies that each mod requires. 
 This helps to determine what libraries your mods in your installation or modpack require to function. 
